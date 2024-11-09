@@ -3,6 +3,6 @@
 
 void print_hello(void){
 
-    print("Hello\n");
+    printf("Hello\n");
 }
 

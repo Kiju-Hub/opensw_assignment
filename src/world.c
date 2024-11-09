@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include "funcs.h"
 
-void print_World(){
+void print_world(void){
 
-    print("World\n");
+    printf("World\n");
 }
 
