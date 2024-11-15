@@ -3,6 +3,7 @@
 
 void print_hello(void){
 
-    printf("Hello from new feature !\n");
+    printf("Hello !\n");
+
 }
 
