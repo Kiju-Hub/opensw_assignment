@@ -4,6 +4,6 @@
 int main(void){
     print_hello();
     print_world();
-    print("i am main !\n");
+    printf("i am main !\n");
     return 0;
 }

@@ -3,7 +3,7 @@
 
 void print_world(void){
 
-    print("World ! \n");
+    printf("World ! \n");
 }
 
 
