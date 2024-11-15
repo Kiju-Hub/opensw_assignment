@@ -3,7 +3,7 @@
 
 void print_hello(void){
 
-    printf("Hello !\n");
+    printf("Hello from bew feature branch!\n");
 
 }
 
