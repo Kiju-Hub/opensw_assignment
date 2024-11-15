@@ -1,8 +1,10 @@
 #include <stdio.h>
-#include "funcs.h"
+#include <funcs.h>
 
 void print_world(void){
 
-    printf("The World is beautiful ! \n");
+    print("World ! \n");
 }
+
+
 
